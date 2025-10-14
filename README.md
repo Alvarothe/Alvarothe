@@ -32,6 +32,17 @@ Some of my highlights:
 
 ---
 
-![My Skills](https://skillicons.dev/icons?i=github,git,powershell,python,selenium,html,css,javascript,mysql,php,linux,bash,vscode,figma,googlecloud)
+### 🧰 My Skills
+<p align="center">
+
+#### 💻 Programming & Automation  
+![Programming](https://skillicons.dev/icons?i=python,selenium,javascript,php,bash,powershell)
+
+#### 🌐 Web & Database  
+![Web](https://skillicons.dev/icons?i=html,css,mysql)
+
+#### 🧠 Tools & Environment  
+![Tools](https://skillicons.dev/icons?i=vscode,figma,github,git,linux,googlecloud)
+</p>
 
 ---
