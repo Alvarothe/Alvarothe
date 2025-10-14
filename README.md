@@ -32,6 +32,6 @@ Some of my highlights:
 
 ---
 
-![My Skills](https://skillicons.dev/icons?i=github,git,python,html,css,javascript,mysql,php)
+![My Skills](https://skillicons.dev/icons?i=github,git,python,html,css,javascript,mysql,php,linux,bash,vscode,figma,googlecloud)
 
 ---
